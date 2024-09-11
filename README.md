@@ -1,2 +1,0 @@
-# sw-task
-sw task
